@@ -1,3 +1,25 @@
+## Primary Maintainer
+
+- Actix Web (and all other crates in @actix ecosystem)
+- `actix-web-lab`
+- `confik`
+- `impl-more`
+- `oas3`
+- `rustversion-msrv`
+- `tinymap`
+- `detrim `
+- `serde-bool`
+- `acme-rfc8555`
+- `double-int`
+
+## Co-Maintainer
+
+- `async-compression`
+- `bytesize`
+- https://deps.rs
+
+## Stats
+
 [![robjtede's github stats](https://github-readme-stats.vercel.app/api?username=robjtede&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/robjtede)
 
 ## Thanks To All My [Sponsors](https://github.com/sponsors/robjtede)
