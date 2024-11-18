@@ -1,6 +1,23 @@
-## Primary Maintainer
+## Maintainership
 
-- Actix Web (and all other crates in @actix ecosystem)
+<table>
+
+<tr>
+<td>
+
+### Primary Maintainer
+
+</td>
+<td>
+
+### Co-Maintainer
+
+</td>
+</tr>
+<tr>
+<td>
+
+- Actix Web (+ all other crates under @actix)
 - `actix-web-lab`
 - `confik`
 - `impl-more`
@@ -12,11 +29,17 @@
 - `acme-rfc8555`
 - `double-int`
 
-## Co-Maintainer
+</td>
+<td>
 
 - `async-compression`
 - `bytesize`
 - https://deps.rs
+
+</td>
+</tr>
+
+</table>
 
 ## Stats
 
