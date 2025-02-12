@@ -24,7 +24,7 @@
 - `oas3`
 - `rustversion-msrv`
 - `tinymap`
-- `detrim `
+- `detrim`
 - `serde-bool`
 - `acme-rfc8555`
 - `double-int`
