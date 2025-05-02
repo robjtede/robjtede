@@ -20,6 +20,7 @@
 - Actix Web (+ all other crates under @actix)
 - `actix-web-lab`
 - `confik`
+- `inspect-cert-chain`
 - `impl-more`
 - `oas3`
 - `rustversion-msrv`
@@ -34,6 +35,7 @@
 
 - `async-compression`
 - `bytesize`
+- `contracts`
 - https://deps.rs
 
 </td>
