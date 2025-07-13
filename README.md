@@ -29,6 +29,8 @@
 - `serde-bool`
 - `acme-rfc8555`
 - `double-int`
+- `serde-decimal`
+- `serde-secrecy`
 
 </td>
 <td>
