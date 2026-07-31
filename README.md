@@ -23,6 +23,7 @@
 - `inspect-cert-chain`
 - `impl-more`
 - `oas3`
+- `roast`
 - `rustversion-msrv`
 - `tinymap`
 - `detrim`
@@ -38,6 +39,7 @@
 - `async-compression`
 - `bytesize`
 - `contracts`
+- `r2d2-mysql`
 - https://deps.rs
 
 </td>
